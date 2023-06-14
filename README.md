@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://uwutismxd.cloud/"><img src="/image/zerotwo.gif" alt="Banner"></a>
+  <a href="https://uwutismxd.cloud/"><img src="https://uwutismxd.cloud/image/zerotwo.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">UwUtismXD</a>!</h1>
