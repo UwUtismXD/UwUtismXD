@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://uwutismxd.cloud/"><img src="https://uwutismxd.cloud/image/zerotwo.gif" alt="Banner"></a>
+  <a href="https://uwutismxd.uk/"><img src="https://uwutismxd.uk/image/zerotwo.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="Https://uwutismxd.cloud">UwUtismXD</a>!</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  | <strong><a href="https://uwutismxd.cloud">Official Website</a></strong> |
+  | <strong><a href="https://uwutismxd.uk">Official Website</a></strong> |
 
 </p>
 
